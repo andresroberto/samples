@@ -1,23 +1,23 @@
 [
   {
-    name: "Tabla de Cortar de Bambú",
-    price: 18.90,
-    rating: 4.4,
-    imageUrl: "https://m.media-amazon.com/images/I/41VZYP-f4FL._AC_SL1100_.jpg",
-    popular: false
+    "name": "Tabla de Cortar de Bambú",
+    "price": 18.90,
+    "rating": 4.4,
+    "imageUrl": "https://m.media-amazon.com/images/I/41VZYP-f4FL._AC_SL1100_.jpg",
+    "popular": false
   },
   {
-    name: "Calentador de Hombros",
-    price: 14.90,
-    rating: 4.2,
-    imageUrl: "https://m.media-amazon.com/images/I/81+7SKecW5L._AC_SL1500_.jpg",
-    popular: false
+    "name": "Calentador de Hombros",
+    "price": 14.90,
+    "rating": 4.2,
+    "imageUrl": "https://m.media-amazon.com/images/I/81+7SKecW5L._AC_SL1500_.jpg",
+    "popular": false
   },
   {
-    name: "Plancha Vertical",
-    price: 28.49,
-    rating: 4.5,
-    imageUrl: "https://m.media-amazon.com/images/I/61R13K2NGJL._AC_SL1500_.jpg",
-    popular: true
+    "name": "Plancha Vertical",
+    "price": 28.49,
+    "rating": 4.5,
+    "imageUrl": "https://m.media-amazon.com/images/I/61R13K2NGJL._AC_SL1500_.jpg",
+    "popular": true
   }
 ]
